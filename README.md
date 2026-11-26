@@ -1,57 +1,33 @@
-﻿# SpendWise - Smart Budget Tracker
+﻿# SpendWise - Personal Budget Tracker
 
-## Project Overview
-SpendWise is a personal budget tracking application designed to help users manage income, monitor expenses, and understand their financial activities.
-
-## Features
-- Set and manage monthly budgets.
-- Record income transactions.
-- Record expenses.
-- Calculate remaining balances.
-- View transaction history.
-- Delete transactions.
-- Visualize spending by category.
-- Save application data using browser local storage.
-- Responsive dashboard design.
+## Project Description
+SpendWise is a personal budget tracking application designed to help users manage income, monitor expenses, organize spending categories, and track their remaining balance.
 
 ## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
-- Google Fonts
-- Browser Local Storage
+- Git and GitHub
+- Netlify
 
-## Project Structure
+## GitHub Repository Information
+Repository: https://github.com/Qoang412/SpendWise
 
-SpendWise/
-|-- index.html
-|-- style.css
-|-- script.js
-|-- README.md
-|-- .gitignore
+## Live Netlify Website
+Coming soon.
 
-## Installation
-1. Download or clone the repository.
-2. Open the SpendWise folder.
-3. Open index.html in your browser.
-4. Start managing your budget.
+## Deployment Process Summary
+1. Prepared and organized the project files.
+2. Uploaded the project to a public GitHub repository.
+3. Connected the GitHub repository to Netlify.
+4. Deployed the website.
+5. Configured automatic deployments.
 
-## How to Use
-1. Open the SpendWise dashboard.
-2. Enter your budget.
-3. Add income and expenses.
-4. Monitor your remaining balance.
-5. Review your transaction history.
+## Challenges Encountered During Deployment
+To be updated after deployment.
 
-## Future Improvements
-- User authentication.
-- Database integration.
-- Monthly financial reports.
-- Export transactions to CSV.
-- Advanced financial analytics.
-
-## Author
-Koang Duay Gatluak
-
-## License
-This project is developed for educational purposes.
+## Lessons Learned
+- How to publish websites using Netlify.
+- How to connect GitHub repositories to Netlify.
+- How continuous deployment works.
+- How to test a live website.
